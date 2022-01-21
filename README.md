@@ -1,4 +1,5 @@
-###👋 Prraneth Reddy
+👋 Prraneth Reddy
+
 👀 I’m interested in WEB DEVELOPMENT
 
 🌱 I learned FULLSTACK DEVEOPEMENT with MERN specialization
